@@ -7,3 +7,5 @@ setTimeout("document.bgColor = 'red'", 3000)
 setTimeout("document.bgColor = 'tomato'", 3500)
 setTimeout("document.bgColor = 'darkred'", 4000)
 </SCRIPT>
+"Is 47 a pig?"
+"Yes, she is indeed!!"
